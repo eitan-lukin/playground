@@ -1,5 +1,4 @@
-Some wierd courses
-
+Eitan Lukin is taking some wierd courses
 # Playground
 
 A place to play with `git`.
