@@ -1,3 +1,5 @@
+Some wierd courses
+
 # Playground
 
 A place to play with `git`.
